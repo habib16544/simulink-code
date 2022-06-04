@@ -1,2 +1,2 @@
-# simulink-code
-simulink connect with python
+# python-code
+simulink model connect with database using python.
